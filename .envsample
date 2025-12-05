@@ -1,3 +1,7 @@
 PORT=8000
 MONGODB_URI=mongodb+srv://shashankshashu903_db_user:9035343403@cluster0.oq2a1uh.mongodb.net
 CORS_ORIGIN=*
+ACESS_TOKEN_SECRET=your_secret_key_here
+ACESS_TOKEN_EXPIRY=1d
+REFRESH_TOKEN_SECRET=your_refresh_token_secret_here
+REFRESH_TOKEN_EXPIRY=7d
