@@ -1,0 +1,2 @@
+PORT=8000
+MONGODB_URI=mongodb+srv://shashankshashu903_db_user:9035343403@cluster0.oq2a1uh.mongodb.net
